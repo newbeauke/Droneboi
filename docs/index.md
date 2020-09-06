@@ -5,4 +5,4 @@ Game download: [Play Store](https://play.google.com/store/apps/details?id=com.ry
 
 ### Guide
 
-These docs provide a getting started guide, as well as a list of all parts and their functions & other useful information.
+This website provides a getting started guide, as well as a list of all parts and their functions & other useful information.
